@@ -1,0 +1,645 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1634406754148,
+    "data": [
+        {
+            "type": "file",
+            "name": "404.html",
+            "size": 79109,
+            "hash": "3f7f5b6939896770d475c3d1cebc6fe4427b89b72d3df91e6f5e16a7042c5825"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "cabinet-data.html",
+            "size": 74052,
+            "hash": "a73ff4e7fcf87971f8ec44ebb767ab32138ee2dd2d677fe4847503e36833ec99"
+        },
+        {
+            "type": "file",
+            "name": "cabinet-fav.html",
+            "size": 82949,
+            "hash": "74e252d2c84a7f119fbd8cfc96b8cbe2dbf960e1fd2abf6dc72f37203682868f"
+        },
+        {
+            "type": "file",
+            "name": "cabinet-history.html",
+            "size": 74301,
+            "hash": "32a417db5c232707b2e8063a77d429d1e0dae9ccaf37ffd6c81cdae35dc1c796"
+        },
+        {
+            "type": "file",
+            "name": "cabinet-prog.html",
+            "size": 70971,
+            "hash": "f0769618b504428f1f91bcbef772d4b2f6f30a2f08aa078cfbbebcc24afd2cac"
+        },
+        {
+            "type": "file",
+            "name": "cart.html",
+            "size": 87892,
+            "hash": "7ad8940d3fbf1181aee40f4bfc5f11f7cb23fc2a045bdc414317e981aa1dbf34"
+        },
+        {
+            "type": "file",
+            "name": "catalog.html",
+            "size": 116298,
+            "hash": "8d5b8aa60cf5f9d6bd870f032cd3f9736e5c0b2747b7b94850e218290c317226"
+        },
+        {
+            "type": "file",
+            "name": "contacts.html",
+            "size": 70508,
+            "hash": "e5dfa63901483755c3c853278b15804871c5cc27fd1cde44b153ddeeb1a40569"
+        },
+        {
+            "type": "file",
+            "name": "home-1.html",
+            "size": 155881,
+            "hash": "63bc972672bfada9f021a53c14e207e7f20b6162d812cd24b57e93b857aa4907"
+        },
+        {
+            "type": "file",
+            "name": "home-2.html",
+            "size": 155271,
+            "hash": "327d4aed552892f0f6e899327bb3f97f566f039f630528cf254f53371fba1ec2"
+        },
+        {
+            "type": "file",
+            "name": "home-3.html",
+            "size": 155408,
+            "hash": "277e7a387d46547820eaf41d9b7aab86bd5f572837a5f59fbc8e414669494ccd"
+        },
+        {
+            "type": "file",
+            "name": "home-4.html",
+            "size": 155577,
+            "hash": "371b31d89d8b0d5f9fb17f5c179f98783cdc555400a8e11bdb2056c817bd45d1"
+        },
+        {
+            "type": "file",
+            "name": "home-5.html",
+            "size": 155577,
+            "hash": "0733aafdef0779e978a6c50ec821a40919dd24551416d25a836049fdde31c17c"
+        },
+        {
+            "type": "file",
+            "name": "home-6.html",
+            "size": 155711,
+            "hash": "5effed25ccf7fbc74aaf1849a416e87ecd0b79196bbb6f4c5e6a4ca2d4535d1f"
+        },
+        {
+            "type": "file",
+            "name": "home-8.html",
+            "size": 156057,
+            "hash": "b2544fd3d4d381a929d34a0ae76085bb8ef477aa3f4d67a9680934e0d8b85e89"
+        },
+        {
+            "type": "file",
+            "name": "home-7.html",
+            "size": 155910,
+            "hash": "abe80e83eb17c9c32a2e35e0207417ef404f6d4cd67b296f51eb628deca8042e"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 3068,
+            "hash": "e522bb2df219f633fcc7fc0eb4d2cd6a30de2db3f4453e8f262910db042db26b"
+        },
+        {
+            "type": "file",
+            "name": "order.html",
+            "size": 78135,
+            "hash": "8b66f848392657e2d3f65f3b6b79a0668cec1ee771e004a06ee02930ac764ffd"
+        },
+        {
+            "type": "file",
+            "name": "product.html",
+            "size": 127853,
+            "hash": "449af62f987f2730cbbc88808ebee059132bf5f1db5458bddc6b686ec43a64e4"
+        },
+        {
+            "type": "folder",
+            "name": "temp"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "file",
+            "name": "temp/actually-1.jpg",
+            "size": 55155,
+            "hash": "1595025e9cdc136966b5b10e90c9d893ed879c129fd967e9c1cc6dce96c2972a"
+        },
+        {
+            "type": "file",
+            "name": "temp/actually-2.jpg",
+            "size": 43326,
+            "hash": "10af75014ad4b87860d7f55fc22d5c2aa184614789c499d641364bc70fbc5b13"
+        },
+        {
+            "type": "file",
+            "name": "temp/actually-3.jpg",
+            "size": 32137,
+            "hash": "19d3b719157cdcdb6f0ccf03a9d53bfdfd59d43129265e31673376beaa83147f"
+        },
+        {
+            "type": "file",
+            "name": "temp/actually-4.jpg",
+            "size": 42980,
+            "hash": "0bbbab9572cc08d651086d4efe788b75146c21dccce6647ee5e84815b6b3f6d6"
+        },
+        {
+            "type": "file",
+            "name": "temp/card-search-1.jpg",
+            "size": 9267,
+            "hash": "f0c4bc1e81f9652696cc11e5bb3bb5aae86f8c3aed43726794e835dfe0e69d8a"
+        },
+        {
+            "type": "file",
+            "name": "temp/card-up-navigation-1.jpg",
+            "size": 3223,
+            "hash": "0f0deb5fd458ff4753d4e441d61aa4b591322c63962f789df2055011a74efda4"
+        },
+        {
+            "type": "file",
+            "name": "temp/card-up-navigation-2.jpg",
+            "size": 5713,
+            "hash": "6a01fbaa5aaccd848496a1455783b173824a12c8b8fdaaab767dc390e66cf71c"
+        },
+        {
+            "type": "file",
+            "name": "temp/card-up-navigation-3.jpg",
+            "size": 5564,
+            "hash": "b9acaf62b2c26893f89f09e0c246a56ab4ddefbea394be19d864cc18b97b4cc5"
+        },
+        {
+            "type": "file",
+            "name": "temp/card-up-navigation-4.jpg",
+            "size": 5571,
+            "hash": "c66d0e87a6c181014f2116a61d22b2fd6e8599a3d4b00e893bd90a411ecb76e3"
+        },
+        {
+            "type": "file",
+            "name": "temp/index-banner-1.jpg",
+            "size": 85160,
+            "hash": "207e81a62e7a4eb05da3fec38bdc3c1b261752c64afe49a34e83fb61ba2c6c00"
+        },
+        {
+            "type": "file",
+            "name": "temp/index-banner-2.jpg",
+            "size": 45164,
+            "hash": "5007113487422057092aeb206c92b7d77817d9d0f9bccbee8935807a3a33f44c"
+        },
+        {
+            "type": "file",
+            "name": "temp/index-banner-3.jpg",
+            "size": 48187,
+            "hash": "ea3d4aff1861ee0cee42a00264dcd9bbc7621352a0372af11c87e8f5e5ff5b3e"
+        },
+        {
+            "type": "file",
+            "name": "temp/instagram-1.jpg",
+            "size": 19006,
+            "hash": "e11492d5c1bb5c088be69d94347012bad428291f5aac151ccf7b30416cf99d94"
+        },
+        {
+            "type": "file",
+            "name": "temp/instagram-2.jpg",
+            "size": 32825,
+            "hash": "93d5e9ce8db9e4e9d180c62b825d9c410dbfcab2aeff63e6e226b87f23c8b629"
+        },
+        {
+            "type": "file",
+            "name": "temp/instagram-3.jpg",
+            "size": 24964,
+            "hash": "b0510d318e15c1898a1edc2e26c88592e3f11b2147500fdfd052ca246f6b5e55"
+        },
+        {
+            "type": "file",
+            "name": "temp/novelty-week-1.jpg",
+            "size": 12062,
+            "hash": "e52d5e93edbc09d707a385c5981e8e8cfcd22d1b6a5c150f3e33234fc104c4c3"
+        },
+        {
+            "type": "file",
+            "name": "temp/novelty-week-2.jpg",
+            "size": 9267,
+            "hash": "f0c4bc1e81f9652696cc11e5bb3bb5aae86f8c3aed43726794e835dfe0e69d8a"
+        },
+        {
+            "type": "file",
+            "name": "temp/novelty-week-3.jpg",
+            "size": 13195,
+            "hash": "73bd65f04588de7a4a583f7ffb5273e2a62b6a75797d5a67bb156041306106fb"
+        },
+        {
+            "type": "file",
+            "name": "temp/novelty-week-4.jpg",
+            "size": 7284,
+            "hash": "fc804398fd3a3f51978254bf8858b222de95b85402af9abd1198cc9d141579d7"
+        },
+        {
+            "type": "file",
+            "name": "temp/novelty-week-5.jpg",
+            "size": 30842,
+            "hash": "9113ec7cf4293e1795c8dc1c134b9e87b676828b53b326ac87e7d00aeb2fcb12"
+        },
+        {
+            "type": "file",
+            "name": "temp/preview-1.jpg",
+            "size": 16861,
+            "hash": "190232971c7e8dbe5a8ccfe8dab49d7008e802b759ca6c7edb9e754c80c33046"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/app.css",
+            "size": 193165,
+            "hash": "0c758d275b496908ebcf99e6c78cbe4f98ff229fe40e9cdc747ed7db3de7fbe2"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/vendors.min.css",
+            "size": 68550,
+            "hash": "ebb0d592e8b4fe7225135e84bf261e835ec5a149795bff2b1de2d3917030981a"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts/Montserrat-Bold"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts/Montserrat-Medium"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts/Montserrat-SemiBold"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts/iconfont"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logo.svg",
+            "size": 1889,
+            "hash": "7713f668dd828eff61cdaff124596c723770b6c51901f2253eedfbf43a018dcd"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/man-banner.jpg",
+            "size": 23603,
+            "hash": "52bcc7c81005291bee9f4ee3372d8631b34735158a5e5ae966b34be19414e54a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/pin-filled.svg",
+            "size": 489,
+            "hash": "ebb7c34aab7bf8eed59af63b799e532b48eaa6036b9f98e450bbab9bf157e588"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/sprite.svg",
+            "size": 34118,
+            "hash": "45e670a1464d74bc34ce2a4ea5a7e4cfb1a79eeb105deb82f9d9dff96dfb009c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/spritesheet.png",
+            "size": 29059,
+            "hash": "2cd6cef2a63d1203f41e8e0ead9320669b74a8a198d5b2448bb39ec6440ca27d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/spritesheet@2x.png",
+            "size": 95152,
+            "hash": "35c7722b812da6d245d28ddd5664436f1eb71af75dffee915f3060fab8387ade"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/svg-icons"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/woman-banner.jpg",
+            "size": 37621,
+            "hash": "dea915e54aff8688bb1f5542bad35aa753fd9ecd3f1d1ceeac3ec83525570e75"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/app.js",
+            "size": 32190,
+            "hash": "4b330fb535d6757fd937d1ab76e8e7f26299165407a41f633412124acd149cd4"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/helpers.js",
+            "size": 5048,
+            "hash": "1cd4e250f7ea78d455af30c77905bc37381d6c6be19b13cc804b1902ef850b1d"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/modernizr.js",
+            "size": 5479,
+            "hash": "c9d36d8d8985dee251a5fdb72c2c8950e0893874405a5e5cb4b3de5ffab8dddd"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/vendors.min.js",
+            "size": 461363,
+            "hash": "72e80d714b1d5f3f4bd43fde6632e6aa1245fe2f64ee6c77a861dd714ba53612"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Montserrat-Bold/Montserrat-Bold.woff",
+            "size": 35784,
+            "hash": "40aaf2cc2a4bc21a3675811a46e471d175034018ca9def387e66e8cdaa70ff3d"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Montserrat-Bold/Montserrat-Bold.woff2",
+            "size": 28024,
+            "hash": "cd25fac6bb3bf5cc60070f051c174f45a8ab5396490bef46ef619da709b067d4"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Montserrat-Medium/Montserrat-Medium.woff",
+            "size": 35516,
+            "hash": "45621730aabfb6a88064a26419401c23ef46160e633feabd77f8d1fe8affc50c"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Montserrat-Medium/Montserrat-Medium.woff2",
+            "size": 27760,
+            "hash": "08e430a0d559094be81c30b150a2f52bb0396d94bc8195fd03703559d276d303"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Montserrat-SemiBold/Montserrat-SemiBold.woff",
+            "size": 35640,
+            "hash": "00dd715fbec19ebd9fb5060c6f95be341b0918684ee61559d547b2d001bf9f2e"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Montserrat-SemiBold/Montserrat-SemiBold.woff2",
+            "size": 27848,
+            "hash": "16b2db0a69134e809d0bbad0cef3d655c0f21786e9b7da00649a83d29370922e"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/iconfont/iconfont.woff",
+            "size": 952,
+            "hash": "1b2e0dc4062f5b8b81dfae950fd135d645e6249744b49484b8c94957397c1331"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/iconfont/iconfont.woff2",
+            "size": 600,
+            "hash": "e18301975fdcd23358a8fa0cce1d139edac521d32bb95772bca3ed8413274f84"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/arrow.svg",
+            "size": 183,
+            "hash": "f2678ae8adb12870747befddbfc52e29c7675667447ac2b7b3a8cc9cd6b80723"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/bin.svg",
+            "size": 916,
+            "hash": "988ed705cccde5a60ee85eb4507b87d597fb6b673eca14ab8a25b44a14fddd82"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/box.svg",
+            "size": 730,
+            "hash": "eb3647de3cc8052a8a803dc33a56872485e6bc932db2cf52f7fc32e9b8774dbe"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/calendar.svg",
+            "size": 581,
+            "hash": "005414212be379d005112d2ffe875de5f06ebb21ca482fbf1da17ad6fbd04aba"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/cart.svg",
+            "size": 527,
+            "hash": "35725ed7553e28b911301d65ddb8db7125e158325835dc39a2d59bb90d27552e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/cdek-logo.svg",
+            "size": 1109,
+            "hash": "ab4af78b457f273d0089318af196ad8b78362e594b0a432c8d81b245829793a3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/check.svg",
+            "size": 385,
+            "hash": "2bde300a015c74194171217c7d34c48269ba47855bea2c81375437252d183e95"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/clock.svg",
+            "size": 448,
+            "hash": "4c062f3edd24a0ad6fbb91905a47c5c88d433d885f7b60240704a1b63a0691c3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/denisov-logo.svg",
+            "size": 1965,
+            "hash": "fbab1e1acc62563de98e3b70c5e6347ea6663177fec3004908650eaf5a4b4498"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/dislike.svg",
+            "size": 756,
+            "hash": "b5234d34096e53d6eb2bf7b33c514dfadd00980690eda94f999c302291778637"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/dpd-logo.svg",
+            "size": 1212,
+            "hash": "5a5addade72dfe8bfd29b97df2a5766f4a343c91051f8309defae0e47f5b3a34"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/envelope.svg",
+            "size": 597,
+            "hash": "a774a8fc02d2dcf69adefaf339a454d935fdf9475abe78ac5422c82647dab40d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/facebook.svg",
+            "size": 279,
+            "hash": "26276bf635681be3eb181b0b21599ab9ab9c51f2635193161622af8ef95c4c35"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/filter.svg",
+            "size": 703,
+            "hash": "0c7ecceaeaa3b6268d8432e15c500d7da788d3671257071ad8a4c4eac9c58e3b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/instagram.svg",
+            "size": 1002,
+            "hash": "d6291d6c9179bfe5d281b474699e78b5d9faff20bf2559c0f1d5561b0272fdc2"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/join.svg",
+            "size": 523,
+            "hash": "7d94f5bb5b2d54242f65f9d18a209b047015366be3473af69eb931283959bb91"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/like.svg",
+            "size": 770,
+            "hash": "aa3db11d07d6c7271c8483936affd5999cf00c9e7c1d1e90c76de9be7c832647"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/map-pin.svg",
+            "size": 306,
+            "hash": "fad31fdd4e37dd79c31e5f64ad73be824e148b569d5c6afb7850419beb9d86f8"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/ok.svg",
+            "size": 1278,
+            "hash": "a73dddba9242d062265d2ad846725de0c468dcb43eddb64e640566a4c2b20677"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/password-hidden.svg",
+            "size": 828,
+            "hash": "5de9efb5053baf941dfbba170878fda77f032d4e8752f5274efa2bf55de8a6a6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/password-visible.svg",
+            "size": 521,
+            "hash": "502ec6a3669290775e804bf4016cb6a6beb0e985d092cb2a2c75cbee664770eb"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/phone.svg",
+            "size": 1034,
+            "hash": "f5e097957633eb4ea9840d8561590eae705e0cfccf630c8e48460bc703fb634b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/pin-filled.svg",
+            "size": 489,
+            "hash": "ebb7c34aab7bf8eed59af63b799e532b48eaa6036b9f98e450bbab9bf157e588"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/pin.svg",
+            "size": 439,
+            "hash": "557d4105200e623816fce5ec27dc7c20be349a7d2b952bad1e0736b948a3535f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/pinterest.svg",
+            "size": 654,
+            "hash": "bac18cf20643d0cbec6e79a7a4af2b5054a2d094ba68757dd7eec00e567c80b7"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/resize.svg",
+            "size": 285,
+            "hash": "04b7fdb1bd1fb29a1cb0f5a3f78370557d82858ed3de23d6dc45b6b262f0fa8b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/save.svg",
+            "size": 474,
+            "hash": "a7efe47c8e38406d4908094b4310c0c95613cedab145ebefe6b77f2182f11c3d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/search.svg",
+            "size": 275,
+            "hash": "d4c6de73445df6421a15240239b185e3a1459a25196fe98b3b6c533022aafed0"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/share.svg",
+            "size": 1956,
+            "hash": "595bd22c99613bc03b141841ba9612bfea60edc7fa7b6817e88b5479942046f5"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/spark-logo.svg",
+            "size": 5546,
+            "hash": "b57ef01b34c991a9f7f7ae70d550b69751eeb3e75d1e4faba2d68dd7433496fd"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/star.svg",
+            "size": 628,
+            "hash": "b6f261bf7b35d271331b4c76631736c6ace2e04acd6eafe5713e641db0783ebf"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/telegram.svg",
+            "size": 402,
+            "hash": "6a51c148d34b530f33d62bd36b5cd281ed4b37d5250a05d799b0a61d356ae8e7"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/tiktok.svg",
+            "size": 825,
+            "hash": "0de03097a1b022cebddd83649020a8ed982f379c4c7363e20bc974e953398638"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/twitter.svg",
+            "size": 1396,
+            "hash": "0acd355592191eaf82a2f9fdf9c2693f4c7aa5931afeaa05f1bfdc0565938007"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/vk.svg",
+            "size": 497,
+            "hash": "7e630fb96a10839318f40b9af9f777925df0fda50823f5f786a67ae45fe743e9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/whatsapp.svg",
+            "size": 1529,
+            "hash": "ca53183efdebbdb61cf771c9e30a31fda5cd0f060cf4f5465fcb6a6892e0e286"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/x.svg",
+            "size": 170,
+            "hash": "016fbc366b000dd4b058c74ffdc0fa2f0fe48a30f9dd299f173e37c1bf4321ee"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/svg-icons/youtube.svg",
+            "size": 1301,
+            "hash": "c9f469b7ec85476768fa9a6ea10edee88023a88f819edb76c36b170ab44da1dd"
+        }
+    ]
+}
