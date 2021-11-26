@@ -1,13 +1,13 @@
 {
     "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
     "version": "1.0.0",
-    "generatedTime": 1634406754148,
+    "generatedTime": 1637829801539,
     "data": [
         {
             "type": "file",
             "name": "404.html",
-            "size": 79109,
-            "hash": "3f7f5b6939896770d475c3d1cebc6fe4427b89b72d3df91e6f5e16a7042c5825"
+            "size": 79833,
+            "hash": "8b384ec2b6c42487fa5ecb1bbb2f1220a78850d22143f8fb0a9e080624f4d13c"
         },
         {
             "type": "folder",
@@ -16,92 +16,92 @@
         {
             "type": "file",
             "name": "cabinet-data.html",
-            "size": 74052,
-            "hash": "a73ff4e7fcf87971f8ec44ebb767ab32138ee2dd2d677fe4847503e36833ec99"
+            "size": 74776,
+            "hash": "05ff69b94812a86ed9f616b777651172235a84ca4eea82623536ee50565ee0eb"
         },
         {
             "type": "file",
             "name": "cabinet-fav.html",
-            "size": 82949,
-            "hash": "74e252d2c84a7f119fbd8cfc96b8cbe2dbf960e1fd2abf6dc72f37203682868f"
+            "size": 83673,
+            "hash": "a9fb5cb9104dce0212bbe82afa255601a1313979f3896158652d00f546e4a429"
         },
         {
             "type": "file",
             "name": "cabinet-history.html",
-            "size": 74301,
-            "hash": "32a417db5c232707b2e8063a77d429d1e0dae9ccaf37ffd6c81cdae35dc1c796"
+            "size": 75025,
+            "hash": "20e1fbebc3ea2361d657ca6a7330b54df6ed3c1bf978649de9965a29ac1adca1"
         },
         {
             "type": "file",
             "name": "cabinet-prog.html",
-            "size": 70971,
-            "hash": "f0769618b504428f1f91bcbef772d4b2f6f30a2f08aa078cfbbebcc24afd2cac"
+            "size": 71695,
+            "hash": "c8b34622fcb3a05b0a7dd38bdc3327b9a1c4fa461c91698ba59bb1d607568307"
         },
         {
             "type": "file",
             "name": "cart.html",
-            "size": 87892,
-            "hash": "7ad8940d3fbf1181aee40f4bfc5f11f7cb23fc2a045bdc414317e981aa1dbf34"
+            "size": 88629,
+            "hash": "96e5699a3898c16bb6153dc064e78283a88dd40ed5fbf9125f916816b4c8e159"
         },
         {
             "type": "file",
             "name": "catalog.html",
-            "size": 116298,
-            "hash": "8d5b8aa60cf5f9d6bd870f032cd3f9736e5c0b2747b7b94850e218290c317226"
+            "size": 117022,
+            "hash": "915682ed17b81363a77800bee307ae87f596f5a2e0d268dfeb0ed0fc923d7985"
         },
         {
             "type": "file",
             "name": "contacts.html",
-            "size": 70508,
-            "hash": "e5dfa63901483755c3c853278b15804871c5cc27fd1cde44b153ddeeb1a40569"
+            "size": 71233,
+            "hash": "59246472e60dbcfdde6705f7f211a10036177912c580da741008fdeac18e86a8"
         },
         {
             "type": "file",
             "name": "home-1.html",
-            "size": 155881,
-            "hash": "63bc972672bfada9f021a53c14e207e7f20b6162d812cd24b57e93b857aa4907"
+            "size": 156605,
+            "hash": "e4442a38507828c568240370aeb4ec400adff0394c823150bb2361720e824999"
         },
         {
             "type": "file",
             "name": "home-2.html",
-            "size": 155271,
-            "hash": "327d4aed552892f0f6e899327bb3f97f566f039f630528cf254f53371fba1ec2"
+            "size": 155995,
+            "hash": "30e9f9d6fdf9030f4dcdf37b36e018722111df1664c2c0934700484d58b2aa9f"
         },
         {
             "type": "file",
             "name": "home-3.html",
-            "size": 155408,
-            "hash": "277e7a387d46547820eaf41d9b7aab86bd5f572837a5f59fbc8e414669494ccd"
+            "size": 156132,
+            "hash": "873ea08b8da8c632fbf83720ac4788f483cb8a7a3935b684a14cdf281411431d"
         },
         {
             "type": "file",
             "name": "home-4.html",
-            "size": 155577,
-            "hash": "371b31d89d8b0d5f9fb17f5c179f98783cdc555400a8e11bdb2056c817bd45d1"
+            "size": 156301,
+            "hash": "cc1bbd8872c5246ff2d8421ea5fe1c9f603ae00e3a446b61c2c68b0ccf2ec9f8"
         },
         {
             "type": "file",
             "name": "home-5.html",
-            "size": 155577,
-            "hash": "0733aafdef0779e978a6c50ec821a40919dd24551416d25a836049fdde31c17c"
+            "size": 156301,
+            "hash": "97b8bfd7cd43d4e4c92e517dc4b69baf43c7a9c424f552b03e0a7fedf5f3d806"
         },
         {
             "type": "file",
             "name": "home-6.html",
-            "size": 155711,
-            "hash": "5effed25ccf7fbc74aaf1849a416e87ecd0b79196bbb6f4c5e6a4ca2d4535d1f"
-        },
-        {
-            "type": "file",
-            "name": "home-8.html",
-            "size": 156057,
-            "hash": "b2544fd3d4d381a929d34a0ae76085bb8ef477aa3f4d67a9680934e0d8b85e89"
+            "size": 156435,
+            "hash": "ee99f782c209a50c5d5532a338a854fd794688fafe3442db577e7f8b0d3b1145"
         },
         {
             "type": "file",
             "name": "home-7.html",
-            "size": 155910,
-            "hash": "abe80e83eb17c9c32a2e35e0207417ef404f6d4cd67b296f51eb628deca8042e"
+            "size": 156634,
+            "hash": "ed29ab0dd645606c9f499c461c5c8005d2af7fab80125e2aa0d0e218e0517171"
+        },
+        {
+            "type": "file",
+            "name": "home-8.html",
+            "size": 156781,
+            "hash": "e44f0086944a3ebb9ff1810d575631c07b20793bf5158c138146702ba41c9d40"
         },
         {
             "type": "file",
@@ -112,14 +112,14 @@
         {
             "type": "file",
             "name": "order.html",
-            "size": 78135,
-            "hash": "8b66f848392657e2d3f65f3b6b79a0668cec1ee771e004a06ee02930ac764ffd"
+            "size": 78859,
+            "hash": "a37564894ee5f162d4217211153caeb1f1d02bd1a0781bc8da5557787774836d"
         },
         {
             "type": "file",
             "name": "product.html",
-            "size": 127853,
-            "hash": "449af62f987f2730cbbc88808ebee059132bf5f1db5458bddc6b686ec43a64e4"
+            "size": 128576,
+            "hash": "4d310af6326b07f31734ad97e267a2983b0b07b987b2ea1acbf8bf38015dfbfb"
         },
         {
             "type": "folder",
@@ -270,8 +270,8 @@
         {
             "type": "file",
             "name": "assets/css/app.css",
-            "size": 193165,
-            "hash": "0c758d275b496908ebcf99e6c78cbe4f98ff229fe40e9cdc747ed7db3de7fbe2"
+            "size": 193394,
+            "hash": "65f4cc386605713f4590a6f897ec3a20971fae14098ad6e7861730178b68ec5a"
         },
         {
             "type": "file",
@@ -405,13 +405,13 @@
             "type": "file",
             "name": "assets/fonts/iconfont/iconfont.woff",
             "size": 952,
-            "hash": "1b2e0dc4062f5b8b81dfae950fd135d645e6249744b49484b8c94957397c1331"
+            "hash": "13ccfbbb3c6bb24b97689441af19d683402a1bfe54ad2e0aaaf8e31de1540d35"
         },
         {
             "type": "file",
             "name": "assets/fonts/iconfont/iconfont.woff2",
-            "size": 600,
-            "hash": "e18301975fdcd23358a8fa0cce1d139edac521d32bb95772bca3ed8413274f84"
+            "size": 604,
+            "hash": "3e5e4c7289dfdb5dc0c4328968c25686add380329a69b9ac2c04a7daf813745d"
         },
         {
             "type": "file",
